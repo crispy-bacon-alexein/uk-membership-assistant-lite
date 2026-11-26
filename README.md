@@ -49,6 +49,10 @@ The full UK membership assistant adds:
 
 It's licensed for use across your whole organisation, for £79. [See the full version](https://www.alexein.co.uk/skill/).
 
+## Works with the Alexein guides
+
+This skill uses the same definitions and checks as the [Alexein membership guides](https://www.alexein.co.uk/guides/), so the two work together. The guides teach your team the method and why each step matters; the skill makes Claude follow that method every time. Start with the free [Safe AI for membership teams](https://www.alexein.co.uk/guides/safe-ai-for-membership-teams/) guide, or pair the skill with [Renewals and retention report](https://www.alexein.co.uk/guides/renewals-and-retention-report/).
+
 ## Licence
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You can use, share and adapt it, including commercially, as long as you credit "Alexein Ltd (alexein.co.uk)" and link to the licence. See `LICENSE`.
