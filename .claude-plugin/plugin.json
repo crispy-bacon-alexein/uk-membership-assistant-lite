@@ -1,0 +1,9 @@
+{
+  "name": "uk-membership-assistant-lite",
+  "version": "1.0.0",
+  "description": "Free lite UK membership assistant: UK membership wording, UK GDPR-safe handling of member data, renewal rate definitions and renewal reminder emails.",
+  "author": { "name": "Alexein Ltd", "url": "https://www.alexein.co.uk" },
+  "homepage": "https://www.alexein.co.uk",
+  "license": "CC-BY-4.0",
+  "keywords": ["membership", "associations", "professional bodies", "renewals", "uk"]
+}

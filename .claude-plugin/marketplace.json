@@ -1,0 +1,15 @@
+{
+  "name": "alexein",
+  "description": "Claude plugins from Alexein Ltd for UK membership organisations.",
+  "owner": {
+    "name": "Alexein Ltd",
+    "url": "https://www.alexein.co.uk"
+  },
+  "plugins": [
+    {
+      "name": "uk-membership-assistant-lite",
+      "source": "./",
+      "description": "Free lite UK membership assistant for membership organisations."
+    }
+  ]
+}
