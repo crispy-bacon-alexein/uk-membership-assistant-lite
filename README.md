@@ -2,7 +2,7 @@
 
 A free Claude skill for people who work in UK membership organisations: professional bodies, chartered institutes, trade associations, membership charities, clubs and societies.
 
-Made by [Alexein Ltd](https://www.alexein.co.uk), membership AI and security for UK membership organisations. Every Alexein resource is checked by a person before release.
+Made by [Alexein Ltd](https://www.alexein.co.uk), membership AI and security for UK membership organisations. [What a Claude skill is, and the full version](https://www.alexein.co.uk/skill/). Every Alexein resource is checked by a person before release.
 
 ## What it does
 
@@ -47,7 +47,7 @@ The full UK membership assistant adds:
 - onboarding (first 90 days) and win-back email sequences
 - test files, so you can check it yourself
 
-It's licensed for use across your whole organisation. It's available from [alexein.co.uk](https://www.alexein.co.uk).
+It's licensed for use across your whole organisation, for £79. [See the full version](https://www.alexein.co.uk/skill/).
 
 ## Licence
 
